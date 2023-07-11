@@ -6,7 +6,8 @@
 <br>
 💻 2023 Prometheus StartUp Hackathon
 <br><br>
-[FSC_Portfolio.pdf](https://github.com/julia8024/FSC_IOS_APP/files/12018326/FSC_Portfolio.pdf)
+<a href="https://github.com/julia8024/FSC_IOS_APP/files/12018326/FSC_Portfolio.pdf"><img src="https://img.shields.io/badge/FSC Portfolio-FF6550?style=for-the-badge&logo=&logoColor=ffffff"/></a> &nbsp;
+<a href="https://github.com/julia8024/FSC_server"><img src="https://img.shields.io/badge/FSC Server-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/></a>
 <br><br>
 
 ![fai 포트폴리오](https://github.com/julia8024/FSC_IOS_APP/assets/79641953/3ddae8ef-6f32-4e2f-bceb-1e830f0c91f3)
